@@ -1,0 +1,17 @@
+body {
+    background-image: url("../img/plane.jpg");
+    background-size: cover;
+    text-align: center;
+    font-size: 40px;
+    color: pink;
+}
+p {
+    margin: 50px;
+    padding: 50px;
+    border: 10px solid pink;
+    background-color: lightblue;
+
+    background-color{
+    opacity: 0.5px;
+}
+}
